@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">first_task</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+    <string name="username">USERNAME</string>
+    <string name="login_with_facebook">LOGIN WITH FACEBOOK</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="as">test</string>
+</resources>
